@@ -1,0 +1,3 @@
+[ ] Find WPM of spoken speech - possibly using: https://github.com/YannickJadoul/Parselmouth
+[ ] Cut out all/most silent frames in video and cut audio (likely with existing jumpcutter)
+[ ] Increase sounded speed to match max intelligible WPM
